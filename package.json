@@ -1,0 +1,22 @@
+{
+  "name": "ssnode",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+   "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishsurve/ssNode.git"
+  },
+  "author": "ssurve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satishsurve/ssNode/issues"
+  },
+  "homepage": "https://github.com/satishsurve/ssNode#readme"
+}
